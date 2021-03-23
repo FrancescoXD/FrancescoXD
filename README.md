@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Here you can found some information about me.
-- 🌱 I’m currently learning C & Rust
+- 🌱 I’m currently learning C, C++ & Rust
 
 ![FrancescoXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoXD&show_icons=true&theme=radical)
 

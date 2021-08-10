@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">Here you can found some information about me.</h2>
+<h2 align="center">Here you can find some information about me.</h2>
 
 - 🔭 **I’m currently working with Rust**.
 - 🌱 **I’m currently learning C, C++ & Rust**.

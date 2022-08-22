@@ -9,7 +9,7 @@
 
 | DWM | DMENU |
 | --- | --- |
-| <a href="https://github.com/FrancescoXD/dwm"><img src="https://github.com/FrancescoXD/dwm/blob/main/screenshots/screen3.png"/></a> | <a href="https://github.com/FrancescoXD/dmenu"><img src="https://github.com/FrancescoXD/dmenu/blob/main/screenshots/screen2.png"/></a> |
+| <a href="https://github.com/FrancescoXD/dwm"><img src="https://github.com/FrancescoXD/dwm/blob/old/screenshots/screen3.png"/></a> | <a href="https://github.com/FrancescoXD/dmenu"><img src="https://github.com/FrancescoXD/dmenu/blob/main/screenshots/screen2.png"/></a> |
 
 <h3 align="center">Some crazy stats.</h3>
 <h3 align="center">

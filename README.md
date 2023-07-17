@@ -23,7 +23,7 @@
 I am a wannabe Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 - :telescope: I’m working with C (mostly)
 - :seedling: Exploring the Rust world.
-- :zap: In my free time, I linke to play some CTFs!
+- :zap: In my free time, I like to play some CTFs!
 - :computer: ArchLinux user (_I use arch btw_)
 
 ---

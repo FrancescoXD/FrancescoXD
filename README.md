@@ -47,4 +47,5 @@ I am a wannabe Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <div align="center">
 	<h1>:dizzy_face: Some crazy stats:</h1>
 	<img src="https://github-readme-stats.vercel.app/api?username=FrancescoXD&show_icons=true&theme=radical" alt=""/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoXD&show_icons=true&theme=radical" alt=""/>
 </div>
